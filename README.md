@@ -1,2 +1,2 @@
 # TestProject
-Below are steps to setup the project
+Below are the steps to setup the project
